@@ -9,7 +9,7 @@ a desk, made with blender and python
 ![bla](/results/pictures/schreibtisch9d.jpg)
 ![bla](/results/pictures/schreibtisch9b.jpg)
 ![bla](/results/pictures/schreibtisch9.jpg)
-![bla](/results/pictures/palast.jpg)
-![bla](/results/pictures/palast1.jpg)
-![bla](/results/pictures/aw01.jpg)
+![bla](/results/pictures/palast.png)
+![bla](/results/pictures/palast1.png)
+![bla](/results/pictures/aw01.png)
 
